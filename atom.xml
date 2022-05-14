@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wcjqwq.github.io/lxz</id>
-    <title>Gridea</title>
-    <updated>2022-05-14T01:42:21.888Z</updated>
+    <title>旅行者的博客</title>
+    <updated>2022-05-14T01:58:23.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wcjqwq.github.io/lxz"/>
     <link rel="self" href="https://wcjqwq.github.io/lxz/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>QAQ</subtitle>
     <logo>https://wcjqwq.github.io/lxz/images/avatar.png</logo>
     <icon>https://wcjqwq.github.io/lxz/favicon.ico</icon>
-    <rights>All rights reserved 2022, Gridea</rights>
+    <rights>All rights reserved 2022, 旅行者的博客</rights>
     <entry>
         <title type="html"><![CDATA[教你在手机上玩我的世界Java版]]></title>
         <id>https://wcjqwq.github.io/lxz/post/jiao-ni-zai-shou-ji-shang-wan-wo-de-shi-jie-java-ban/</id>
